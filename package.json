@@ -21,7 +21,7 @@
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
     "css-loader": "^3.4.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "global": "^4.4.0",
     "http-server": "^0.12.1",
     "lite-server": "^2.5.4",
